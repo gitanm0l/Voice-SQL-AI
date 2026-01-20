@@ -30,3 +30,8 @@ them on a database.
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
+Credits
+
+This project is inspired by open-source implementations and has been
+customized, extended, and structured independently by Anmol.
+
