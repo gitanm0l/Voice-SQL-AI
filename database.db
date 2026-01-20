@@ -1,0 +1,13 @@
+CREATE TABLE students (
+    id INTEGER PRIMARY KEY,
+    name TEXT,
+    subject TEXT,
+    score INTEGER
+);
+
+
+INSERT INTO students (name, subject, score) VALUES
+('Naveen', 'Math', 85),
+('Ajay', 'Science', 45),
+('Kumar', 'English', 33),
+('Ram', 'Math', 76);
